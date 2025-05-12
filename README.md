@@ -1,5 +1,4 @@
-# Introdução  Java e JavaScript - IFMG
-
+# Introdução  Java e JavaScript - +IFMG (Instituto Federal de Minas Gerais)
 # Curso de Introdução  Java e JavaScript
 
 Curso de Introdução  Java e JavaScript! Este curso é projetado para iniciantes prontos para aprender os fundamentos da programação com duas das linguagens mais populares da indústria.
